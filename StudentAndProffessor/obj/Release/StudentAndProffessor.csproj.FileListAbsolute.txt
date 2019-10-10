@@ -1,0 +1,10 @@
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\bin\Release\StudentAndProffessor.exe.config
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\bin\Release\StudentAndProffessor.exe
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\bin\Release\StudentAndProffessor.pdb
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\obj\Release\StudentAndProffessor.csprojResolveAssemblyReference.cache
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\obj\Release\StudentAndProffessor.Form1.resources
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\obj\Release\StudentAndProffessor.Properties.Resources.resources
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\obj\Release\StudentAndProffessor.csproj.GenerateResource.cache
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\obj\Release\StudentAndProffessor.csproj.CoreCompileInputs.cache
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\obj\Release\StudentAndProffessor.exe
+d:\project_c#\StudentAndProffessor\StudentAndProffessor\obj\Release\StudentAndProffessor.pdb
